@@ -4,6 +4,6 @@
 
 ## Основные документы
 
-- [Анкета для заказчика](./questionnaire.pdf)
-- [Протокол встречи](./protocol_vstrechi.pdf)
-- [План коммуникаций](./plan_communication.pdf)
+- [Анкета для заказчика](https://github.com/AMGolovina/DZ3-Group-dinamic/blob/main/content/questionnaire.pdf)
+- [Протокол встречи](https://github.com/AMGolovina/DZ3-Group-dinamic/blob/main/content/protocol_vstrechi.pdf)
+- [План коммуникаций](https://github.com/AMGolovina/DZ3-Group-dinamic/blob/main/content/plan_communication.pdf)
